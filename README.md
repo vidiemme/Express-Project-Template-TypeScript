@@ -1,10 +1,6 @@
-# TS Express API Project Template
+# Express API Project Template - TypeScript
 
 > Backend entry point for almost any project based on Express and TypeScript
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 ## Installation
 
