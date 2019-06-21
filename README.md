@@ -1,4 +1,4 @@
-<h1 align="center"> Express API Project Template - TypeScript </h1>
+# Express API Project Template - TypeScript
 
 > Backend entry point for almost any project based on Express and TypeScript
 
